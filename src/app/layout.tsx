@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Tesis Form",
-  description: "Formulário de cadastro tesis",
+  description: "Desafio de formulário de cadastro tesis",
 };
 
 export default function RootLayout({
