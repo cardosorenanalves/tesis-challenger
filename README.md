@@ -22,5 +22,3 @@ Com todas as dependências instaladas, este script vai rodar o projeto em seu br
 na url gerada: http://localhost:3000
 
 ## Hospedagem
-
-Esse projeto está hospedado e pode ser encontrado no seguinte link: https://cardosorenanalves.github.io/react-form/
